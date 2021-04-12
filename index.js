@@ -15,7 +15,6 @@ const {
 } = require("./env");
 const { errorMessage, rank } = require("./message-helpers");
 const Sentry = require("@sentry/node");
-const Tracing = require("@sentry/tracing");
 
 if (ENABLE_SENTRY) {
   Sentry.init({
