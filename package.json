@@ -19,6 +19,6 @@
     "google-spreadsheet": "^3.0.13",
     "keyv": "^4.0.3",
     "lodash": "^4.17.20",
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.17"
   }
 }
