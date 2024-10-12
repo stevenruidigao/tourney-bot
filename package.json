@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@keyv/mongo": "^1.1.0",
-    "@sentry/node": "^5.28.0",
+    "@sentry/node": "^7.75.0",
     "@sentry/tracing": "^5.28.0",
     "date-fns": "^2.16.1",
     "date-fns-tz": "^1.0.12",
